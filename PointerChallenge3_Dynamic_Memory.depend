@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566872092 source:c:\users\andre\onedrive\desktop\learning c\pointerchallenge3_dynamic_memory\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
